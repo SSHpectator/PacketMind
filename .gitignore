@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Log e file temporanei
+*.log
+*.bak
+
+# Sistema
+Thumbs.db
+desktop.ini
